@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "title": "Software Testing Specialist",
+    "desc": "Manual Testing , Java foundations, Mobile Testing, Automation Testing,Selenium IDE, Selenium Web driver, Selenium Advanced",
+    "duration": "6 Months, 1.5 - 2 Hours/day",
+    "offlinefee":35000,
+    "onlinefee":30000,
+    "batch":{"cochin": "Dec 14th 2023 (Offline & Online)",
+             "banglore": "Nov 24th 2023 (Offline & Online)"},
+    "image": "https://thumbs.dreamstime.com/b/software-testing-gradient-vector-icon-dark-theme-software-testing-gradient-vector-icon-dark-theme-improving-performance-234969029.jpg"
+  },
+  {
+   
+    "id": 2,
+    "title": "MEA(R)N Full Stack",
+    "desc": "HTML, CSS, Bootstrap, Javascript, Typescript, Git, Angular, React.js, Node.js, Express.js & MongoDB",
+    "duration": "4 Months, 1.5 - 2 Hours/day",
+    "offlinefee":36000,
+    "onlinefee":33000,
+    "batch":{"cochin": "Dec 14th 2023 (Offline & Online)",
+             "banglore": "nov 14th 2023 (Offline & Online)"},
+     "image":"https://ionicframework.com/docs/icons/logo-react-icon.png"
+     
+    },
+    {
+        "id": 3,
+        "title": "Data Science - ML - AI ",
+        "desc": "Python, Hadoop, Spark, Data Analytics, Linear Algebra, Statistics, Probability Concepts, Machine Learning, Deep Learning.",
+        "duration": "4 Months, 1.5 - 2 Hours/day",
+        "offlinefee":63000,
+         "onlinefee":60000,
+         "batch":{"cochin": "Dec 14th 2023 (Offline & Online)",
+                 "banglore": "Sep 30th 2023 (Offline & Online)"},
+        "image":"https://media.istockphoto.com/id/1058514216/vector/artificial-intelligence-logo-icon-vector-symbol-ai-deep-learning-and-future-technology.jpg?s=612x612&w=0&k=20&c=CfFv_SASiliVtIr14cn6bxNpoazcIBCF2f9lNrGO3-k="
+      },
+      {
+        "id": 4,
+        "title": "Python Django Full Stack",
+        "desc": "Core Python, Basics of Programming, Unix Commands, Advanced Python, Django Framework, REST API, Git, Angular, Web.",
+        "duration": "4 Months, 1.5 - 2 Hours/day",
+        "offlinefee":56000,
+        "onlinefee":53000,
+        "batch":{"cochin": "Dec 14th 2023 (Offline & Online)",
+             "banglore": "July 15th 2023 (Offline & Online)"},
+         "image":"https://w1.pngwing.com/pngs/835/530/png-transparent-python-logo-programming-language-computer-programming-python-programming-basics-for-absolute-beginners-scripting-language-source-code-php-code-climate-inc.png"
+     
+      },
+      {
+        "id": 5,
+        "title": "Asp.net - Full Stack",
+        "desc": "C# Programming, Object Oriented Development, ASP .Net Web and Windows Application Development, MS SQL, MVC.",
+        "duration": "4 Months, 1.5 - 2 Hours/day",
+        "offlinefee":30000,
+        "onlinefee":25000,
+        "batch":{"cochin": "Dec 14th 2023 (Offline & Online)",
+             "banglore": "Nov 24th 2023 (Offline & Online)"},
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"
+      },
+      {
+        "id": 6,
+        "title": "Android Developer - Flutter",
+        "desc": "Dart, Flutter Introduction to Android, AndroidManifest.xml, Directories, Layout Designing, Basics & Intents, UI.",
+        "duration": "4 Months, 1.5 - 2 Hours/day",
+        "offlinefee":46000,
+        "onlinefee":43000,
+        "batch":{"cochin": "Dec 14th 2023 (Offline & Online)",
+             "banglore": "Jan 10th 2023 (Offline & Online)"},
+        "image":"https://i.morioh.com/2020/02/28/1195ab76f0b1.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Java Programming Course",
+        "desc": "Introduction to Java ,Features of Java,Comparison with C and C++Download and install JDK/JRE",
+        "duration": "4 Months,1.5 - 2 Hours/day",
+        "offlinefee":40000,
+        "onlinefee":38000,
+        "batch":{"cochin": "Dec 14th 2023 (Offline & Online)",
+             "banglore": "Oct 18th 2023 (Offline & Online)"},
+        "image":"https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
+      },
+      {
+        "id": 8,
+        "title": "DevOps Training",
+        "desc": "DevOps Engineer Skills in the market,Knowing DevOps Delivery Pipeline,Market trend of DevOps",
+        "duration": "6 Months,1.5 - 2 Hours/day",
+        "offlinefee":45000,
+        "onlinefee":40000,
+        "batch":{"cochin": "Dec 14th 2023 (Offline & Online)",
+             "banglore": "Oct 18th 2023 (Offline & Online)"},
+        "image":"https://cdn-icons-png.flaticon.com/512/5136/5136950.png"
+      },
+      {
+        "id": 9,
+        "title": "R Programming Training",
+        "desc": "R Functions,Function Return Value,Environment & Scope,R Recursive Function,R Infix Operator",
+        "duration": "6 Months,1.5 - 2 Hours/day",
+        "offlinefee":45000,
+        "onlinefee":42000,
+        "batch":{"cochin": "Dec 14th 2023 (Offline & Online)",
+             "banglore": "Oct 26th 2023 (Offline & Online)"},
+        "image":"https://e7.pngegg.com/pngimages/801/880/png-clipart-rstudio-macos-r-blue-text.png"
+      }
+    ]
+
+
+
